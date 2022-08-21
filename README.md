@@ -1,5 +1,5 @@
 The program will: <br/>
-* create <number of threads> threads that will wait. 
+* create <<number of threads>> threads that will wait. 
 * read the file <filename>, which contains <num lines>  of integers.
         a. Those integers are between 0 and 999. 
         b. There is one integer per row
